@@ -3,7 +3,7 @@
 Table of contents |readings name |
 ------------ | ------------ |
 DAY 1| --|
-DAY2| [Basics of HTML, CSS & JS](class-02)|
+DAY2| [Basics of HTML, CSS & JS](read1)|
 DAY3| [HTML Lists, Control Flow with JS, and the CSS Box Model](boxes)|
 DAY4| --|
 DAY5| --|
