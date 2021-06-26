@@ -15,6 +15,7 @@ There are many common answers to this question:
 -  Fixing bugs
 -   Making software maintainable
 
+
 ## What can you do about it?
 
 
