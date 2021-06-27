@@ -30,6 +30,7 @@ What I mean by this is that it is often beneficial to take a part of the problem
 
 Games are really good at this.  Look at most games today and you’ll find that you start with a very small problem domain.  The first level is usually a tutorial that has a basic set of things you can do so that you don’t get overwhelmed.  But, as you advance through the levels, you usually find they get harder and introduce new concepts that build gradually on what you know, until you understand a pretty large problem domain. 
 
+
 ## WHAT IS AN OBJECT?
 - Objects group together a set of variables and functions to create a model
 of a something you would recognize from the real world. In an object,
