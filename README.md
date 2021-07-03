@@ -14,4 +14,4 @@ DAY5|[Images, Color, Text](img)|
 DAY6|[Object-Oriented Programming, HTML Tables](Tables)|
 DAY7|[CSS Layout](layout)|
 DAY8|[Forms and JS Events](forms)|
-
+DAY9|[Debugging](forms)|
