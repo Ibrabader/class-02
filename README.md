@@ -13,4 +13,5 @@ DAY4|[HTML Links, JS Functions, and Intro to CSS Layout](read04)|
 DAY5|[Images, Color, Text](img)|
 DAY6|[Object-Oriented Programming, HTML Tables](Tables)|
 DAY7|[CSS Layout](layout)|
+DAY8|[Forms and JS Events](forms)|
 
