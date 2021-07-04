@@ -16,3 +16,4 @@ DAY7|[CSS Layout](layout)|
 DAY8|[Forms and JS Events](forms)|
 DAY9|[Debugging](debugging)|
 DAY10|[Audio, Video, Images](avi)|
+DAY11|[Chart.js](Chart)|
