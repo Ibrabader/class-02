@@ -6,9 +6,10 @@ Historically, native applications have had an advantage because they can store d
 
 Web applications have used cookies for storage, which can store a small amount of information, but are innefficient because you need to transfer them frequently.
 
+
 There have been advances over the years with a variety of technoologies that allows web apps to store data locally on the clientside, with varying degrees of success.
 
-One of HTML5's goals was to create a uniform API to address clientside storage issues in a consistent user experience.
+- One of HTML5's goals was to create a uniform API to address clientside storage issues in a consistent user experience.
 
 ## HTML5 storage
 
