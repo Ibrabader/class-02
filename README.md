@@ -18,5 +18,5 @@ DAY9|[Debugging](debugging)|
 DAY10|[Audio, Video, Images](avi)|
 DAY11|[Chart.js](Chart)|
 DAY11|[Local Storage](storage)|
-DAY12|[ CSS Transforms, Transitions, and Animations](storage)|](animation)|
+DAY12|[ CSS Transforms, Transitions, and Animations](animation)|
 DAY12|[What Google Learned About Teams](teams)|
